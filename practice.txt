@@ -1,1 +1,2 @@
 My first Git practice
+Learning Git and GitHub for Automation QA
